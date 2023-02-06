@@ -1,0 +1,10 @@
+com\saraya\controller\HomeController.class
+com\saraya\model\Pet.class
+com\saraya\model\Visit.class
+com\saraya\model\Owners.class
+com\saraya\model\Speciality.class
+com\saraya\model\Vet.class
+com\saraya\service\OwnerService.class
+com\saraya\controller\LoginController.class
+com\saraya\model\PetType.class
+com\saraya\service\AuthService.class
